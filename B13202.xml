@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A commission for the well gouerning of our people, inhabiting in New-found-land; or, traffiquing in bayes, creekes, or fresh riuers there</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1634</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13202</idno>
+            <idno type="STC">STC 9256.5</idno>
+            <idno type="STC">ESTC S101041</idno>
+            <idno type="EEBO-CITATION">99836866</idno>
+            <idno type="PROQUEST">99836866</idno>
+            <idno type="VID">178065</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B13202)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178065)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1378:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A commission for the well gouerning of our people, inhabiting in New-found-land; or, traffiquing in bayes, creekes, or fresh riuers there</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[4], 12, 17-22, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie: and by the assignes of Iohn Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M.DC.XXXIII. [1633, i.e. 1634]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed at end: Westminster, the tenth day of February, in the ninth [y]eere of our reigne. Willys.</note>
+                  <note>The year date is given according to Lady Day dating.</note>
+                  <note>Cf. Folger catalogue, which gives signatures: A-C⁴.</note>
+                  <note>Identified as STC 9255 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Newfoundland --  Politics and government --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:178065:1"/>
+            <pb facs="tcp:178065:1" rendition="simple:additions"/>
+            <p>A COMMISSION for the well gouerning of Our people, inhabiting in <hi>New-found-land;</hi> Or, Traffiquing in Bayes, Creekes, or freſh Riuers there.</p>
+            <p>¶ Imprinted at London by ROBERT BARKER, Printer to the Kings moſt Excellent MAIESTIE: And by the Aſſignes of IOHN BILL. M.DC.XXXIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:178065:2"/>
+            <pb facs="tcp:178065:2"/>
+            <head>HIS MAIESTIES Commiſsion, for the well-gouer<g ref="char:EOLhyphen"/>ning of His ſubiects inhabi<g ref="char:EOLhyphen"/>ting in the <hi>New-found-land.</hi>
+            </head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">C</seg>HARLES by the grace of GOD, King of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> Defender of the Faith, &amp;c. To all to whom theſe preſents ſhall come, greeting.</salute>
+            </opener>
+            <p>VVhereas the Region, or
+<pb n="2" facs="tcp:178065:3"/>Countrey called <hi>New-found-land,</hi> hath beene acquired to the Dominion of Our Progenitors; which VVe hold, and Our peo<g ref="char:EOLhyphen"/>ple haue many yeeres reſorted to thoſe parts, where, and in the coaſts adioyning they imployed themſelues in Fiſhing, whereby a great number of Our people haue beene ſet on worke, and the Naui<g ref="char:EOLhyphen"/>gation and Marriners of Our Realme hath been much increa<g ref="char:EOLhyphen"/>ſed.</p>
+            <p>And Our Subiects reſorting thither, one by the other, and the natiues of thoſe parts were order<g ref="char:EOLhyphen"/>ly
+<pb n="3" facs="tcp:178065:3"/>and gently intreated, vntill of late ſome of Our Subiects of the Realme of <hi>England,</hi> planting them<g ref="char:EOLhyphen"/>ſelues in that Countrey, and there reſiding and inhabiting, vpon conceit, that for wrongs or iniuries done there, either on the Shoare, or in the Sea adioyning, they can<g ref="char:EOLhyphen"/>not be here impeached, and the rather, for that We, or Our Pro<g ref="char:EOLhyphen"/>genitors, haue not hitherto giuen Lawes to the Inhabitants there, and by that example, Our Sub<g ref="char:EOLhyphen"/>iects reſorting thither, iniure one another, and vſe all manner of ex<g ref="char:EOLhyphen"/>ceſſe to the great hinderance of
+<pb n="4" facs="tcp:178065:4"/>the voyage, and common dam<g ref="char:EOLhyphen"/>mage of this Realme: For preuen<g ref="char:EOLhyphen"/>ting ſuch inconueniencies hereaf<g ref="char:EOLhyphen"/>ter, VVee doe hereby declare in what manner our people in <hi>New-found-land</hi> and vpon the Sea ad<g ref="char:EOLhyphen"/>ioyning, and the Bayes, Creekes, or freſh Riuers there, ſhall be guided and gouerned: Doe make and or<g ref="char:EOLhyphen"/>dayne the Lawes following in the things after ſpecified; Comman<g ref="char:EOLhyphen"/>ding that the ſame be obeyed and put in execution.</p>
+            <p>Firſt, if any man on the land there ſhall kill another, or if any ſhall ſecretly or forceablie ſteale
+<pb n="5" facs="tcp:178065:4"/>the goods of any other to the value of Forty ſhillings; he ſhalbe forth<g ref="char:EOLhyphen"/>with apprehended &amp; arreſted, de<g ref="char:EOLhyphen"/>tayned and brought Priſoner into <hi>England,</hi> and the crime committed by him ſhalbe made known to the Earle Marſhall of <hi>England</hi> for the time being: to whom the Delin<g ref="char:EOLhyphen"/>quent ſhall bee deliuered as Priſo<g ref="char:EOLhyphen"/>ner; And the ſaid Earle Marſhall ſhal take Cognizance of the cauſe: And if hee ſhall finde by the teſti<g ref="char:EOLhyphen"/>monie of two witneſſes or more, that the partie had there killed a man not being at that time firſt aſ<g ref="char:EOLhyphen"/>ſaulted by the party ſlaine, or that
+<pb n="6" facs="tcp:178065:5"/>the killing were by miſ-aduenture, or had ſtollen ſuch goods; the De<g ref="char:EOLhyphen"/>linquent ſhall ſuffer paine of death, and all the company ſhall endeauor to apprehend ſuch ma<g ref="char:EOLhyphen"/>lefactor.</p>
+            <p>Secondly, That no Ballaſt, Preſtones, or any thing elſe hurt<g ref="char:EOLhyphen"/>full to the Harbourers be throwne out to the preiudice of the ſaid Harbours, but that it be carried a ſhoare, and laid where it may not doe annoyance.</p>
+            <p>Thirdly, That no perſon what<g ref="char:EOLhyphen"/>ſoeuer, either Fiſhermen or Inha<g ref="char:EOLhyphen"/>bitants doe deſtroy, deface, or any
+<pb n="7" facs="tcp:178065:5"/>way worke any ſpoyle or detri<g ref="char:EOLhyphen"/>ment to any Stage, Cookeroome, Flakes, Spikes, Nayles, or any thing elſe, that belongeth to the Stages whatſoeuer, either at the end of the voyage when hee hath done, and is to depart the Coun<g ref="char:EOLhyphen"/>trey, or to any ſuch Stages as hee ſhall fall withall at his comming into the Countrey, but that hee of they content themſelues with ſuch Stage or Stages onely, as ſhall bee needefull for them: And that for the repayring of ſuch Stages, as he or they take, they ſhall fetch Tym<g ref="char:EOLhyphen"/>ber out of the woods, and not to do
+<pb n="8" facs="tcp:178065:6"/>it with the ruining or tearing down of other Stages.</p>
+            <p>Fourthly, That according to the ancient cuſtome euery Shippe or Fiſher that firſt entreth a Har<g ref="char:EOLhyphen"/>bour, in behalfe of the Shippe bee Admirall of the ſaid Harbour, wherin for the time beeing, he ſhall reſerue onely ſo much Beach and Flakes, or both, as is needefull for the number of boates that hee ſhall vſe, with an ouerplus only for one Boate more then hee needeth, as a priuiledge for his firſt comming.</p>
+            <p>And that euery Ship comming after, content himſelfe with what
+<pb n="9" facs="tcp:178065:6"/>hee ſhall haue neceſſary vſe for, without keeping or detaining any more to the preiudice of others next comming.</p>
+            <p>And that any that are poſſeſſed of ſeuerall places in ſeuerall Har<g ref="char:EOLhyphen"/>bours, with intent to keepe them all, before they can reſolue vpon which of them to chooſe, ſhall be bound to reſolue and ſend aduice to ſuch after commers in thoſe pla<g ref="char:EOLhyphen"/>ces as expect his reſolution, and that within fourty eight howres, if the weather ſo ſerue, that the ſaid after commers may likewiſe chuſe their places, and ſo none receiue
+<pb n="10" facs="tcp:178065:7"/>preiudice by others delayes.</p>
+            <p>Fiftly, That no perſon cut out, deface, or any way alter, or change the markes of any Boats, or Traine-fats, whereby to de<g ref="char:EOLhyphen"/>fraud the right owners. And that no perſon conuert to his owne vſe, the ſaid Boats or Traine-fats ſo belonging to others, without their conſents, nor remoue, nor take them from the places where they be left by the owners, ex<g ref="char:EOLhyphen"/>cept in caſe of neceſsity, and then to giue notice thereof to the Ad<g ref="char:EOLhyphen"/>mirall and others, whereby the right owners may know what is become of them.</p>
+            <pb n="11" facs="tcp:178065:7"/>
+            <p> Sixtly, that no perſon doe di<g ref="char:EOLhyphen"/>miniſh, take away, purloyne, or ſteale any of the Fiſh, or Traine, or Salt which is put in Caske, Traynefats or Cookeroome, or other houſe in any of the Har<g ref="char:EOLhyphen"/>bours or Fiſhing places of the Countrey, or any other prouiſi<g ref="char:EOLhyphen"/>on belonging to the fiſhing trade, or to the Shippes.</p>
+            <p>Seuenthly, That no perſon ſet fire in any of the wood of the Countrey, or worke any detri<g ref="char:EOLhyphen"/>ment or deſtruction to the ſame, by Rynding of the Trees, either for the ſeeling of Shippes, holdes,
+<pb n="12" facs="tcp:178065:8"/>or for Roomes on Shoare, or for any other vſes, Except for the co<g ref="char:EOLhyphen"/>uering of the roofes for Cooke<g ref="char:EOLhyphen"/>roomes to dreſſe their meate in, and theſe Roomes not to extend aboue ſixteene foot in length at the moſt.</p>
+            <p>Eightly. That no man caſt Ancor, or ought elſe hurtfull, which may breede annoyance, or hinder the haleing of Seanes for baite in places accuſtomed thereunto.</p>
+            <p>Ninthly, That no perſon robbe the Netts of others out of any drift Boate or Drouer for
+<pb n="17" facs="tcp:178065:8"/>bait by night, nor take away any bait out of their Fiſhing-boats by their Shippes ſides, nor robbe or ſteale any of their Nettes, or any part thereof.</p>
+            <p>Tenthly, That no perſon doe ſet vp any Tauerne for ſelling of Wine, Beere, or ſtrong Waters, Cyder, or Tobacco, to entertaine the Fiſhermen, becauſe it is found that by ſuch meanes they are de<g ref="char:EOLhyphen"/>bauched, neglecting their la<g ref="char:EOLhyphen"/>bours, and poore ill-gouerned men, not onely ſpend moſt part of their ſhares before they come home, vpon which the life and
+<pb n="18" facs="tcp:178065:9"/>maintenance of their wife and children dependeth, but are like<g ref="char:EOLhyphen"/>wiſe hurtfull in diuers other wayes, as by neglecting and ma<g ref="char:EOLhyphen"/>king themſelues vnfit for their labour, by purloyning and ſtea<g ref="char:EOLhyphen"/>ling from their owners, and by making vnlawfull ſhifts to ſupply their diſorders, &amp;c. which diſor<g ref="char:EOLhyphen"/>ders they frequently follow ſince theſe occaſions haue preſented themſelues.</p>
+            <p>Laſtly, That vpon the Sun<g ref="char:EOLhyphen"/>dayes the Company aſſemble in meet places, and haue diuine Ser<g ref="char:EOLhyphen"/>uice to bee ſaid by ſome of the
+<pb n="19" facs="tcp:178065:9"/>Maſters of the Shippes, or ſome others, which prayers ſhall bee ſuch as are in the Booke of Com<g ref="char:EOLhyphen"/>mon Prayer.</p>
+            <p>And becauſe that ſpeedy pu<g ref="char:EOLhyphen"/>niſhment may be inflicted vpon the offenders againſt thoſe Lawes and Conſtitutions;</p>
+            <p>Wee doe ordaine that euery of the Maiors of <hi>Southampton, Weymouth,</hi> and <hi>Melcombe Regis, Lynne, Plymouth, Dartmouth, Eſtlow, Foye</hi> and <hi>Barnestable,</hi> for the time being, may take Cog<g ref="char:EOLhyphen"/>nizans of all complaints made by any offender againſt any of theſe
+<pb n="20" facs="tcp:178065:10"/>Ordinances vpon the land, and by oath of Witneſſes, examine the truth thereof, award amends to the parties grieued, and puniſh the deliuquents by Fine, and Im<g ref="char:EOLhyphen"/>priſonment, or either of them, and of their goods ſound in the parts of <hi>New-found-land,</hi> or in the Sea, cauſe ſatisfaction thereof to bee made by Warrants vnder their hands and ſeales.</p>
+            <p>And the Vice-Admirals in Our Counties of <hi>Southampton, Dorſet, Deuon,</hi> and <hi>Cornewall,</hi> vp<g ref="char:EOLhyphen"/>on complaint made of any of the pre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſſes committed vpon the
+<pb n="21" facs="tcp:178065:10"/>Sea, ſhall ſpeedily and effectually proceed againſt the offenders.</p>
+            <p>Alſo We Will and Ordaine, that theſe Lawes and Ordinan<g ref="char:EOLhyphen"/>ces, ſhall ſtand in force, and bee put in due execution, vntill VVe ſhall otherwiſe prouide and or<g ref="char:EOLhyphen"/>daine.</p>
+            <p>And VVee doe require the Admirall in euery Harbour in this next Seaſon enſuing, calling together ſuch as ſhall bee in that Harbour, publiquely to pro<g ref="char:EOLhyphen"/>claime theſe preſents.</p>
+            <p>And that they alſo proclaime the ſame on the Shore.</p>
+            <pb n="22" facs="tcp:178065:11" rendition="simple:additions"/>
+            <p> In witneſſe whereof Wee haue cauſed theſe Our Letters to bee made Patents.</p>
+            <closer>
+               <dateline>Witneſſe our ſelfe at <hi>Weſtminſter,</hi> 
+                  <date>the tenth day of February, in the ninth <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eere of Our Reigne.</date>
+               </dateline>
+               <signed>Willys.</signed>
+               <lb/> God ſaue the King.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
